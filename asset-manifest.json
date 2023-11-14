@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DigitalTwinVis/static/css/main.9ba43516.css",
+    "main.js": "/DigitalTwinVis/static/js/main.1ea3c525.js",
+    "static/js/787.cda612ba.chunk.js": "/DigitalTwinVis/static/js/787.cda612ba.chunk.js",
+    "index.html": "/DigitalTwinVis/index.html",
+    "main.9ba43516.css.map": "/DigitalTwinVis/static/css/main.9ba43516.css.map",
+    "main.1ea3c525.js.map": "/DigitalTwinVis/static/js/main.1ea3c525.js.map",
+    "787.cda612ba.chunk.js.map": "/DigitalTwinVis/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba43516.css",
+    "static/js/main.1ea3c525.js"
+  ]
+}
